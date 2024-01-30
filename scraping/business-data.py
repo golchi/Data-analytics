@@ -1,3 +1,4 @@
+# Group 1 project - Data Scraping code
 import requests
 from bs4 import BeautifulSoup
 import csv

@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s: %(m
 
 # Base URL for the pages with pagination
 base_url = "https://disfold.com/world/companies"
-page_number = 3  # Start with page 1
+page_number = 0  # Start with page 0
 
 # Define the CSV filename
 csv_filename = 'top_companies.csv'
